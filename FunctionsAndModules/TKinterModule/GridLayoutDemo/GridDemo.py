@@ -33,7 +33,7 @@ fileList.grid(column= 0, row=1,rowspan=2, sticky= 'news',)
 # we can list out the folders in folder
 
 for zone in os.listdir('C:\Windows\System32'):
-    zoneCompletePath = "C:\Windows\System32\\"+ str(zone)
+    zoneCompletePath = "C:\Windows\System32\\" + str(zone)
     if os.path.isdir(zoneCompletePath):
         fileList.insert(tkinter.END, zone)
         # insert(position, item) position states where to insert the item in the list
@@ -61,8 +61,8 @@ rbOption.set(2)        # We set default value of rebOption as 2
 radio1 = tkinter.Radiobutton(fileDetailsFrame,text='Filename', variable=rbOption, value=1)
 # variable--> it is the variable which we have assigned for the value via method: get()
 # value is just like key for each radio button which will be stored in rbOption
-radio2 = tkinter.Radiobutton(fileDetailsFrame,text='Path', variable=rbOption, value=2)
-radio3 = tkinter.Radiobutton(fileDetailsFrame,text='TimeStamp', variable=rbOption, value=3)
+radio2 = tkinter.Radiobutton(fileDetailsFrame, text='Path', variable=rbOption, value=2)
+radio3 = tkinter.Radiobutton(fileDetailsFrame, text='TimeStamp', variable=rbOption, value=3)
 radio1.grid(column=0, row=0, sticky='nws')
 radio2.grid(column=0, row=1, sticky='nws')
 radio3.grid(column=0, row=2, sticky='nws')
@@ -70,7 +70,7 @@ radio3.grid(column=0, row=2, sticky='nws')
 # We wante to show the file name, path, timestamp whichever is selected, So we will add a label name "Result" and
 # a Entry widget to print the result in it. Its like TextField
 resultLabel = tkinter.Label(mainWindow, text='Result :')
-resultLabel.grid(column=2,row=2, sticky='nw')
+resultLabel.grid(column=2, row=2, sticky='nw')
 resultEntry = tkinter.Entry(mainWindow)
 resultEntry.grid(column=2, row=2, sticky='sw')
 
@@ -79,16 +79,16 @@ timeFrame = tkinter.LabelFrame(mainWindow, text='Time', relief='groove', borderw
 timeFrame.grid(column=0, row=3, sticky='nwe')
 
 # Adding Combolist
-checkList1 = tkinter.Spinbox(timeFrame, width=2, value= tuple(range(0,24)))
-checkList1.grid(column=0,row=0,sticky='es', pady=5)
+checkList1 = tkinter.Spinbox(timeFrame, width=2, value=tuple(range(0,24)))
+checkList1.grid(column=0, row=0, sticky='es', pady=5)
 checkList2 = tkinter.Spinbox(timeFrame, width=2, value= tuple(range(0,60)))
-checkList2.grid(column=1,row=0,sticky='s', pady=5)
+checkList2.grid(column=1, row=0, sticky='s', pady=5)
 checkList3 = tkinter.Spinbox(timeFrame, width=2, value= tuple(range(0,60)))
-checkList3.grid(column=2,row=0,sticky='ws', pady=5)
+checkList3.grid(column=2, row=0, sticky='ws', pady=5)
 timeFrame.columnconfigure(0, weight=2)
 timeFrame.columnconfigure(1, weight=1)
 timeFrame.columnconfigure(2, weight=2)
-timeFrame.rowconfigure(0,weight=1)
+timeFrame.rowconfigure(0, weight=1)
 
 # Adding DateFrame
 dateFrame = tkinter.Frame(mainWindow)
@@ -100,26 +100,26 @@ dateFrame.rowconfigure(0, weight=1)
 dateFrame.rowconfigure(1, weight=1)
 
 dayLabel = tkinter.Label(dateFrame, text='Day')
-dayLabel.grid(column=0,row =0 ,sticky='s')
+dayLabel.grid(column=0, row=0, sticky='s')
 monthLabel = tkinter.Label(dateFrame,text='Month')
-monthLabel.grid(column=1,row=0,sticky='s')
+monthLabel.grid(column=1, row=0, sticky='s')
 yearLabel = tkinter.Label(dateFrame, text='Year')
-yearLabel.grid(column=2, row=0,sticky='s')
+yearLabel.grid(column=2, row=0, sticky='s')
 
 daySpinner = tkinter.Spinbox(dateFrame, width=4, value=tuple(range(1,32)))
-daySpinner.grid(column=0, row=1,sticky='n',)
+daySpinner.grid(column=0, row=1, sticky='n',)
 monthSpinner = tkinter.Spinbox(dateFrame, width=4, value=('JAN', 'FEB', 'MAR', 'APR', 'MAY', 'JUN', 'JULY', 'AUG',
                                                           'SEP', 'OCT', 'NOV', 'DEC'))
 monthSpinner.grid(column=1, row=1, sticky='n')
-yearSpinner = tkinter.Spinbox(dateFrame, width=4, value=tuple(range(1990,2021)))
-yearSpinner.grid(column=2, row=1,sticky='n')
+yearSpinner = tkinter.Spinbox(dateFrame, width=4, value=tuple(range(1990, 2021)))
+yearSpinner.grid(column=2, row=1, sticky='n')
 
 # Adding Ok Button
 okButton = tkinter.Button(text='OK', width=6)
-okButton.grid(column=3,row=4, sticky='e')
+okButton.grid(column=3, row=4, sticky='e')
 # Adding the cancel Button
 cancelButton = tkinter.Button(text='cancel', width=8)
-cancelButton.grid(column=4,row=4, sticky='w')
+cancelButton.grid(column=4, row=4, sticky='w')
 
 mainWindow.mainloop()
 

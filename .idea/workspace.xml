@@ -4,13 +4,28 @@
     <bookmark url="file://$PROJECT_DIR$/HelloWorld/Forloops.py" line="0" />
     <bookmark url="file://$PROJECT_DIR$/FunctionsAndModules/TKinterModule/PackGeometryManger.py" line="55" />
     <bookmark url="file://$PROJECT_DIR$/FunctionsAndModules/TKinterModule/GridLayoutDemo/GridDemo.py" line="108" />
+    <bookmark url="file://$PROJECT_DIR$/FunctionsAndModules/Functions/Circles.py" line="32" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1a96c850-ccd8-4ee2-bcc4-0d7d399d4a50" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FunctionsAndModules/TKinterModule/GridLayoutDemo/CalculatorChallenge.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FunctionsAndModules/TKinterModule/GridLayoutDemo/CalculatorLayout.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FunctionsAndModules/Functions/Circles.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FunctionsAndModules/Functions/Parabola.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FunctionsAndModules/Functions/functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FunctionsAndModules/Game_BlackJack/importTest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPMiniGame/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPMiniGame/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPMiniGame/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPMiniGame/OOPMiniGame.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPMiniGame/enemy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP_Python/Account.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP_Python/OOPs_Intro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP_Python/Song.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP_Python/Song_Version3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP_Python/Song_version2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP_Python/albums.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Documentation/python365.chm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FunctionsAndModules/TKinterModule/GridLayoutDemo/GridDemo.py" beforeDir="false" afterPath="$PROJECT_DIR$/FunctionsAndModules/TKinterModule/GridLayoutDemo/GridDemo.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,72 +36,97 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/PythonLearning$Challenge_6.coverage" NAME="Challenge_6 Coverage Results" MODIFIED="1527605678218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dictionary_And_Sets" />
+    <SUITE FILE_PATH="coverage/PythonLearning$Challenge_3.coverage" NAME="Challenge_3 Coverage Results" MODIFIED="1527494029253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dictionary_And_Sets" />
+    <SUITE FILE_PATH="coverage/PythonLearning$Parabola.coverage" NAME="Parabola Coverage Results" MODIFIED="1529255285102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FunctionsAndModules/Functions" />
+    <SUITE FILE_PATH="coverage/PythonLearning$Exercise_1.coverage" NAME="Exercise_1 Coverage Results" MODIFIED="1527619329829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/List _and_ Tuples" />
+    <SUITE FILE_PATH="coverage/PythonLearning$Forloops.coverage" NAME="Forloops Coverage Results" MODIFIED="1526705784356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HelloWorld" />
+    <SUITE FILE_PATH="coverage/PythonLearning$Account.coverage" NAME="Account Coverage Results" MODIFIED="1529764528976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP_Python" />
+    <SUITE FILE_PATH="coverage/PythonLearning$Question_1.coverage" NAME="Question_1 Coverage Results" MODIFIED="1527616676417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dictionary_And_Sets" />
+    <SUITE FILE_PATH="coverage/PythonLearning$importTest.coverage" NAME="importTest Coverage Results" MODIFIED="1529579913545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FunctionsAndModules/Game_BlackJack" />
+    <SUITE FILE_PATH="coverage/PythonLearning$Song_version2.coverage" NAME="Song_version2 Coverage Results" MODIFIED="1529883421357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP_Python" />
+    <SUITE FILE_PATH="coverage/PythonLearning$FileExercise_1.coverage" NAME="FileExercise_1 Coverage Results" MODIFIED="1527853155030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Input_Output(I_O)" />
+    <SUITE FILE_PATH="coverage/PythonLearning$Set1_1.coverage" NAME="Set1_1 Coverage Results" MODIFIED="1527152706889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CircuitChallenge" />
+    <SUITE FILE_PATH="coverage/PythonLearning$main.coverage" NAME="main Coverage Results" MODIFIED="1529966609360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOPMiniGame" />
+    <SUITE FILE_PATH="coverage/PythonLearning$Sets.coverage" NAME="Sets Coverage Results" MODIFIED="1527590360538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dictionary_And_Sets" />
+    <SUITE FILE_PATH="coverage/PythonLearning$CalculatorChallenge.coverage" NAME="CalculatorChallenge Coverage Results" MODIFIED="1528880745235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FunctionsAndModules/TKinterModule/GridLayoutDemo" />
+    <SUITE FILE_PATH="coverage/PythonLearning$Challenge.coverage" NAME="Challenge Coverage Results" MODIFIED="1528231850441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Input_Output(I_O)" />
+    <SUITE FILE_PATH="coverage/PythonLearning$Iterator.coverage" NAME="Iterator Coverage Results" MODIFIED="1526975948310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HelloWorld" />
+    <SUITE FILE_PATH="coverage/PythonLearning$functions.coverage" NAME="functions Coverage Results" MODIFIED="1528896869006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FunctionsAndModules/Functions" />
+    <SUITE FILE_PATH="coverage/PythonLearning$Exercise_2.coverage" NAME="Exercise_2 Coverage Results" MODIFIED="1527621061683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/List _and_ Tuples" />
+    <SUITE FILE_PATH="coverage/PythonLearning$BinaryIOUsingPickle.coverage" NAME="BinaryIOUsingPickle Coverage Results" MODIFIED="1528196596674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Input_Output(I_O)" />
+    <SUITE FILE_PATH="coverage/PythonLearning$Tuples.coverage" NAME="Tuples Coverage Results" MODIFIED="1527347356344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HelloWorld" />
+    <SUITE FILE_PATH="coverage/PythonLearning$Challenge_4.coverage" NAME="Challenge_4 Coverage Results" MODIFIED="1527526494944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dictionary_And_Sets" />
     <SUITE FILE_PATH="coverage/PythonLearning$FileIOWrite.coverage" NAME="FileIOWrite Coverage Results" MODIFIED="1527755557928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Input_Output(I_O)" />
     <SUITE FILE_PATH="coverage/PythonLearning$GridDemo.coverage" NAME="GridDemo Coverage Results" MODIFIED="1528750040278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FunctionsAndModules/TKinterModule/GridLayoutDemo" />
-    <SUITE FILE_PATH="coverage/PythonLearning$Challenge_3.coverage" NAME="Challenge_3 Coverage Results" MODIFIED="1527494029253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dictionary_And_Sets" />
-    <SUITE FILE_PATH="coverage/PythonLearning$Exercise_1.coverage" NAME="Exercise_1 Coverage Results" MODIFIED="1527619329829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/List _and_ Tuples" />
+    <SUITE FILE_PATH="coverage/PythonLearning$blackjack.coverage" NAME="blackjack Coverage Results" MODIFIED="1529577619185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FunctionsAndModules/Game_BlackJack" />
+    <SUITE FILE_PATH="coverage/PythonLearning$Song.coverage" NAME="Song Coverage Results" MODIFIED="1529869763912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP_Python" />
     <SUITE FILE_PATH="coverage/PythonLearning$TurtleModuleDemo.coverage" NAME="TurtleModuleDemo Coverage Results" MODIFIED="1528283193834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FunctionsAndModules/ModuleImports" />
-    <SUITE FILE_PATH="coverage/PythonLearning$Forloops.coverage" NAME="Forloops Coverage Results" MODIFIED="1526705784356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HelloWorld" />
     <SUITE FILE_PATH="coverage/PythonLearning$Set1_2.coverage" NAME="Set1_2 Coverage Results" MODIFIED="1527187930594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CircuitChallenge" />
     <SUITE FILE_PATH="coverage/PythonLearning$Exercise_5.coverage" NAME="Exercise_5 Coverage Results" MODIFIED="1527665646297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/List _and_ Tuples" />
+    <SUITE FILE_PATH="coverage/PythonLearning$Song_Version3.coverage" NAME="Song_Version3 Coverage Results" MODIFIED="1529949768674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP_Python" />
     <SUITE FILE_PATH="coverage/PythonLearning$Dictionaries_And_Sets.coverage" NAME="Dictionaries_And_Sets Coverage Results" MODIFIED="1527873852607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dictionary_And_Sets" />
     <SUITE FILE_PATH="coverage/PythonLearning$Challenge_5.coverage" NAME="Challenge_5 Coverage Results" MODIFIED="1527531833122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dictionary_And_Sets" />
     <SUITE FILE_PATH="coverage/PythonLearning$WhileLoops.coverage" NAME="WhileLoops Coverage Results" MODIFIED="1526714202774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HelloWorld" />
-    <SUITE FILE_PATH="coverage/PythonLearning$Question_1.coverage" NAME="Question_1 Coverage Results" MODIFIED="1527616676417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dictionary_And_Sets" />
     <SUITE FILE_PATH="coverage/PythonLearning$ChallengeShelf.coverage" NAME="ChallengeShelf Coverage Results" MODIFIED="1528226597108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Input_Output(I_O)" />
     <SUITE FILE_PATH="coverage/PythonLearning$WebBrowserModule.coverage" NAME="WebBrowserModule Coverage Results" MODIFIED="1528295108697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FunctionsAndModules/ModuleImports" />
     <SUITE FILE_PATH="coverage/PythonLearning$BinaryAndHexDecimal.coverage" NAME="BinaryAndHexDecimal Coverage Results" MODIFIED="1527360965302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HelloWorld" />
     <SUITE FILE_PATH="coverage/PythonLearning$GridLayoutManger.coverage" NAME="GridLayoutManger Coverage Results" MODIFIED="1528574682947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FunctionsAndModules/TKinterModule" />
+    <SUITE FILE_PATH="coverage/PythonLearning$blackjack__1_.coverage" NAME="blackjack (1) Coverage Results" MODIFIED="1529534035021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/site-packages" />
     <SUITE FILE_PATH="coverage/PythonLearning$PackGeometryManger.coverage" NAME="PackGeometryManger Coverage Results" MODIFIED="1528550254766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FunctionsAndModules/TKinterModule" />
-    <SUITE FILE_PATH="coverage/PythonLearning$FileExercise_1.coverage" NAME="FileExercise_1 Coverage Results" MODIFIED="1527853155030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Input_Output(I_O)" />
-    <SUITE FILE_PATH="coverage/PythonLearning$Set1_1.coverage" NAME="Set1_1 Coverage Results" MODIFIED="1527152706889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CircuitChallenge" />
     <SUITE FILE_PATH="coverage/PythonLearning$DateTimeModule.coverage" NAME="DateTimeModule Coverage Results" MODIFIED="1528464867606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FunctionsAndModules/ModuleImports" />
     <SUITE FILE_PATH="coverage/PythonLearning$PythonTimezonemodule.coverage" NAME="PythonTimezonemodule Coverage Results" MODIFIED="1528473075953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FunctionsAndModules/ModuleImports" />
     <SUITE FILE_PATH="coverage/PythonLearning$Exercise_3.coverage" NAME="Exercise_3 Coverage Results" MODIFIED="1527622186876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/List _and_ Tuples" />
-    <SUITE FILE_PATH="coverage/PythonLearning$Sets.coverage" NAME="Sets Coverage Results" MODIFIED="1527590360538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dictionary_And_Sets" />
     <SUITE FILE_PATH="coverage/PythonLearning$Challenge_2.coverage" NAME="Challenge_2 Coverage Results" MODIFIED="1527489436692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dictionary_And_Sets" />
     <SUITE FILE_PATH="coverage/PythonLearning$Time_Challenge.coverage" NAME="Time Challenge Coverage Results" MODIFIED="1528450392033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FunctionsAndModules/ModuleImports" />
-    <SUITE FILE_PATH="coverage/PythonLearning$CalculatorChallenge.coverage" NAME="CalculatorChallenge Coverage Results" MODIFIED="1528832331149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FunctionsAndModules/TKinterModule/GridLayoutDemo" />
-    <SUITE FILE_PATH="coverage/PythonLearning$Challenge.coverage" NAME="Challenge Coverage Results" MODIFIED="1528231850441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Input_Output(I_O)" />
     <SUITE FILE_PATH="coverage/PythonLearning$Lists.coverage" NAME="Lists Coverage Results" MODIFIED="1527487353987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HelloWorld" />
     <SUITE FILE_PATH="coverage/PythonLearning$TKinterDemo.coverage" NAME="TKinterDemo Coverage Results" MODIFIED="1528479844301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FunctionsAndModules/TKinterModule" />
-    <SUITE FILE_PATH="coverage/PythonLearning$Iterator.coverage" NAME="Iterator Coverage Results" MODIFIED="1526975948310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HelloWorld" />
-    <SUITE FILE_PATH="coverage/PythonLearning$Exercise_2.coverage" NAME="Exercise_2 Coverage Results" MODIFIED="1527621061683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/List _and_ Tuples" />
-    <SUITE FILE_PATH="coverage/PythonLearning$BinaryIOUsingPickle.coverage" NAME="BinaryIOUsingPickle Coverage Results" MODIFIED="1528196596674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Input_Output(I_O)" />
+    <SUITE FILE_PATH="coverage/PythonLearning$OOPs_Intro.coverage" NAME="OOPs_Intro Coverage Results" MODIFIED="1529628273161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP_Python" />
     <SUITE FILE_PATH="coverage/PythonLearning$StandardLibraries.coverage" NAME="StandardLibraries Coverage Results" MODIFIED="1528282287941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FunctionsAndModules/ModuleImports" />
     <SUITE FILE_PATH="coverage/PythonLearning$Challenge_1.coverage" NAME="Challenge_1 Coverage Results" MODIFIED="1527760810081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Input_Output(I_O)" />
-    <SUITE FILE_PATH="coverage/PythonLearning$Tuples.coverage" NAME="Tuples Coverage Results" MODIFIED="1527347356344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HelloWorld" />
+    <SUITE FILE_PATH="coverage/PythonLearning$Circles.coverage" NAME="Circles Coverage Results" MODIFIED="1529267948676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FunctionsAndModules/Functions" />
     <SUITE FILE_PATH="coverage/PythonLearning$FileIO.coverage" NAME="FileIO Coverage Results" MODIFIED="1527748559237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Input_Output(I_O)" />
     <SUITE FILE_PATH="coverage/PythonLearning$BinaryI_OUsingShelve.coverage" NAME="BinaryI_OUsingShelve Coverage Results" MODIFIED="1528217272287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Input_Output(I_O)" />
-    <SUITE FILE_PATH="coverage/PythonLearning$Challenge_4.coverage" NAME="Challenge_4 Coverage Results" MODIFIED="1527526494944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dictionary_And_Sets" />
     <SUITE FILE_PATH="coverage/PythonLearning$OSModule.coverage" NAME="OSModule Coverage Results" MODIFIED="1527777669848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Input_Output(I_O)" />
     <SUITE FILE_PATH="coverage/PythonLearning$Exercise_4.coverage" NAME="Exercise_4 Coverage Results" MODIFIED="1527623251041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/List _and_ Tuples" />
     <SUITE FILE_PATH="coverage/PythonLearning$BinaryI_O.coverage" NAME="BinaryI_O Coverage Results" MODIFIED="1527845322173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Input_Output(I_O)" />
     <SUITE FILE_PATH="coverage/PythonLearning$Question_2.coverage" NAME="Question_2 Coverage Results" MODIFIED="1527618416673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dictionary_And_Sets" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="GridDemo.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FunctionsAndModules/TKinterModule/GridLayoutDemo/GridDemo.py">
+    <leaf>
+      <file leaf-file-name="player.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/OOPMiniGame/player.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1424">
-              <caret line="21" column="37" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
+            <state relative-caret-position="195">
+              <caret line="38" column="93" selection-start-line="38" selection-start-column="93" selection-end-line="38" selection-end-column="93" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CalculatorChallenge.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/FunctionsAndModules/TKinterModule/GridLayoutDemo/CalculatorChallenge.py">
+      <file leaf-file-name="enemy.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/OOPMiniGame/enemy.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="23" column="29" lean-forward="true" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+            <state relative-caret-position="486">
+              <caret line="27" column="26" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CalculatorLayout.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FunctionsAndModules/TKinterModule/GridLayoutDemo/CalculatorLayout.png">
-          <provider selected="true" editor-type-id="images" />
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/OOPMiniGame/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18">
+              <caret line="1" column="24" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="builtins.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.IntelliJIdea2018.1/system/python_stubs/-231596458/builtins.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="4071" column="18" selection-start-line="4067" selection-start-column="8" selection-end-line="4071" selection-end-column="18" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -108,24 +148,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/HelloWorld/Forloops.py" />
-        <option value="$PROJECT_DIR$/HelloWorld/WhileLoops.py" />
-        <option value="$PROJECT_DIR$/HelloWorld/Challenge_3.py" />
-        <option value="$PROJECT_DIR$/HelloWorld/Challenge_4.py" />
-        <option value="$PROJECT_DIR$/HelloWorld/Iterator.py" />
-        <option value="$PROJECT_DIR$/CircuitChallenge/Set1_1.py" />
-        <option value="$PROJECT_DIR$/CircuitChallenge/Set1_2.py" />
-        <option value="$PROJECT_DIR$/HelloWorld/HelloWorld.py" />
-        <option value="$PROJECT_DIR$/HelloWorld/Tuples.py" />
-        <option value="$PROJECT_DIR$/HelloWorld/Lists.py" />
-        <option value="$PROJECT_DIR$/Dictionary_And_Sets/Challenge_1.py" />
-        <option value="$PROJECT_DIR$/Dictionary_And_Sets/jupyterDemo.ipynb" />
-        <option value="$PROJECT_DIR$/Dictionary_And_Sets/Challenge_2.py" />
-        <option value="$PROJECT_DIR$/Dictionary_And_Sets/Challenge_3.py" />
-        <option value="$PROJECT_DIR$/HelloWorld/BinaryAndHexDecimal.py" />
-        <option value="$PROJECT_DIR$/Dictionary_And_Sets/Challenge_4.py" />
-        <option value="$PROJECT_DIR$/Dictionary_And_Sets/Challenge_5.py" />
-        <option value="$PROJECT_DIR$/Dictionary_And_Sets/Sets.py" />
         <option value="$PROJECT_DIR$/Dictionary_And_Sets/Challenge_6.py" />
         <option value="$PROJECT_DIR$/Dictionary_And_Sets/Question_1.py" />
         <option value="$PROJECT_DIR$/Dictionary_And_Sets/Question_2.py" />
@@ -157,8 +179,26 @@
         <option value="$PROJECT_DIR$/FunctionsAndModules/TKinterModule/TKinterDemo.py" />
         <option value="$PROJECT_DIR$/FunctionsAndModules/TKinterModule/PackGeometryManger.py" />
         <option value="$PROJECT_DIR$/FunctionsAndModules/TKinterModule/GridLayoutManger.py" />
-        <option value="$PROJECT_DIR$/FunctionsAndModules/TKinterModule/GridLayoutDemo/GridDemo.py" />
         <option value="$PROJECT_DIR$/FunctionsAndModules/TKinterModule/GridLayoutDemo/CalculatorChallenge.py" />
+        <option value="$PROJECT_DIR$/FunctionsAndModules/Functions/functions.py" />
+        <option value="$PROJECT_DIR$/FunctionsAndModules/Functions/Parabola.py" />
+        <option value="$PROJECT_DIR$/FunctionsAndModules/Functions/Circles.py" />
+        <option value="$PROJECT_DIR$/FunctionsAndModules/TKinterModule/GridLayoutDemo/GridDemo.py" />
+        <option value="$PROJECT_DIR$/FunctionsAndModules/Game_BlackJack/blackjack.py" />
+        <option value="$PROJECT_DIR$/FunctionsAndModules/Game_BlackJack/importTest.py" />
+        <option value="$PROJECT_DIR$/FunctionsAndModules/ScopeAndNamespace/scope.py" />
+        <option value="$PROJECT_DIR$/OOP_Python/OOPs_Intro.py" />
+        <option value="$PROJECT_DIR$/OOP_Python/Account.py" />
+        <option value="$PROJECT_DIR$/OOP_Python/albums.txt" />
+        <option value="$PROJECT_DIR$/OOP_Python/Song.py" />
+        <option value="$PROJECT_DIR$/OOP_Python/Song_version2.py" />
+        <option value="$PROJECT_DIR$/OOP_Python/Song_Version3.py" />
+        <option value="$PROJECT_DIR$/OOP_Python/Game/player.py" />
+        <option value="$PROJECT_DIR$/player.py" />
+        <option value="$PROJECT_DIR$/OOP_Python/Game/main.py" />
+        <option value="$PROJECT_DIR$/OOPMiniGame/player.py" />
+        <option value="$PROJECT_DIR$/OOPMiniGame/enemy.py" />
+        <option value="$PROJECT_DIR$/OOPMiniGame/main.py" />
       </list>
     </option>
   </component>
@@ -171,8 +211,8 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="440" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-10" />
     <option name="width" value="980" />
     <option name="height" value="1040" />
   </component>
@@ -182,6 +222,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -192,41 +234,17 @@
             <path>
               <item name="PythonLearning" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonLearning" type="462c0819:PsiDirectoryNode" />
-              <item name="Documentation" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PythonLearning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PythonLearning" type="462c0819:PsiDirectoryNode" />
-              <item name="FunctionsAndModules" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PythonLearning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PythonLearning" type="462c0819:PsiDirectoryNode" />
-              <item name="FunctionsAndModules" type="462c0819:PsiDirectoryNode" />
-              <item name="TKinterModule" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PythonLearning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PythonLearning" type="462c0819:PsiDirectoryNode" />
-              <item name="FunctionsAndModules" type="462c0819:PsiDirectoryNode" />
-              <item name="TKinterModule" type="462c0819:PsiDirectoryNode" />
-              <item name="GridLayoutDemo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PythonLearning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PythonLearning" type="462c0819:PsiDirectoryNode" />
-              <item name="Input_Output(I_O)" type="462c0819:PsiDirectoryNode" />
+              <item name="OOPMiniGame" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/ROHAN/core_java/PythonLearning/FunctionsAndModules/Game_BlackJack/blackjack.py" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.PYTHON_MODULE" value="Python 3.6" />
@@ -240,13 +258,14 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\ROHAN\core_java\PythonLearning\Dora" />
+      <recent name="C:\ROHAN\core_java\PythonLearning\OOP_Python" />
       <recent name="C:\ROHAN\core_java\PythonLearning\FunctionsAndModules\TKinterModule\GridLayoutDemo" />
       <recent name="C:\ROHAN\core_java\PythonLearning\FunctionsAndModules" />
       <recent name="C:\ROHAN\core_java\PythonLearning\List _and_ Tuples" />
-      <recent name="C:\ROHAN\core_java\PythonLearning\Input_Output(I_O)" />
-      <recent name="C:\ROHAN\core_java\PythonLearning\HelloWorld" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\ROHAN\core_java\PythonLearning\OOP_Python" />
       <recent name="C:\ROHAN\core_java\PythonLearning\Documentation" />
     </key>
   </component>
@@ -262,7 +281,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.CalculatorChallenge">
+  <component name="RunManager" selected="Python.main">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -282,7 +301,7 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="CalculatorChallenge" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Account" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonLearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -290,18 +309,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FunctionsAndModules/TKinterModule/GridLayoutDemo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP_Python" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FunctionsAndModules/TKinterModule/GridLayoutDemo/CalculatorChallenge.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP_Python/Account.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="GridDemo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Song" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonLearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -309,18 +328,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FunctionsAndModules/TKinterModule/GridLayoutDemo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP_Python" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FunctionsAndModules/TKinterModule/GridLayoutDemo/GridDemo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP_Python/Song.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="GridLayoutManger" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Song_Version3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonLearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -328,18 +347,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FunctionsAndModules/TKinterModule" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP_Python" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FunctionsAndModules/TKinterModule/GridLayoutManger.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP_Python/Song_Version3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="PackGeometryManger" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Song_version2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonLearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -347,18 +366,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FunctionsAndModules/TKinterModule" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP_Python" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FunctionsAndModules/TKinterModule/PackGeometryManger.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP_Python/Song_version2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="TKinterDemo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonLearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -366,12 +385,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FunctionsAndModules/TKinterModule" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOPMiniGame" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FunctionsAndModules/TKinterModule/TKinterDemo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOPMiniGame/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -400,19 +419,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Python.TKinterDemo" />
-      <item itemvalue="Python.PackGeometryManger" />
-      <item itemvalue="Python.GridLayoutManger" />
-      <item itemvalue="Python.GridDemo" />
-      <item itemvalue="Python.CalculatorChallenge" />
+      <item itemvalue="Python.Account" />
+      <item itemvalue="Python.Song" />
+      <item itemvalue="Python.Song_version2" />
+      <item itemvalue="Python.Song_Version3" />
+      <item itemvalue="Python.main" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.CalculatorChallenge" />
-        <item itemvalue="Python.GridDemo" />
-        <item itemvalue="Python.GridLayoutManger" />
-        <item itemvalue="Python.PackGeometryManger" />
-        <item itemvalue="Python.TKinterDemo" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.Song_Version3" />
+        <item itemvalue="Python.Song_version2" />
+        <item itemvalue="Python.Song" />
+        <item itemvalue="Python.Account" />
       </list>
     </recent_temporary>
   </component>
@@ -473,14 +492,40 @@
       <workItem from="1528696287076" duration="9232000" />
       <workItem from="1528785863401" duration="5095000" />
       <workItem from="1528813000285" duration="9049000" />
+      <workItem from="1528837634933" duration="238000" />
+      <workItem from="1528841351457" duration="1143000" />
+      <workItem from="1528880366016" duration="7595000" />
+      <workItem from="1528924583152" duration="2936000" />
+      <workItem from="1529192578290" duration="1387000" />
+      <workItem from="1529206279451" duration="903000" />
+      <workItem from="1529228166325" duration="13389000" />
+      <workItem from="1529303991314" duration="767000" />
+      <workItem from="1529399381809" duration="5746000" />
+      <workItem from="1529420692554" duration="2526000" />
+      <workItem from="1529436418734" duration="7996000" />
+      <workItem from="1529493012701" duration="474000" />
+      <workItem from="1529501885282" duration="9863000" />
+      <workItem from="1529525106406" duration="8291000" />
+      <workItem from="1529575066731" duration="3446000" />
+      <workItem from="1529599586836" duration="2311000" />
+      <workItem from="1529620192755" duration="6054000" />
+      <workItem from="1529661510082" duration="1426000" />
+      <workItem from="1529686553876" duration="3425000" />
+      <workItem from="1529706626491" duration="4617000" />
+      <workItem from="1529730560166" duration="3307000" />
+      <workItem from="1529764225781" duration="10701000" />
+      <workItem from="1529821797563" duration="3119000" />
+      <workItem from="1529848322760" duration="20222000" />
+      <workItem from="1529937998760" duration="12708000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="281852000" />
+    <option name="totallyTimeSpent" value="416442000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="5" />
@@ -491,11 +536,11 @@
       <window_info anchor="right" id="Maven Projects" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="right" id="Run" order="10" sideWeight="0.49895614" weight="0.4127604" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32968536" />
+      <window_info anchor="right" id="Run" order="10" sideWeight="0.49895614" weight="0.33072916" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32965517" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12630208" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12760417" />
       <window_info anchor="right" id="Database" order="7" />
       <window_info anchor="right" id="SciView" order="8" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -509,34 +554,34 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32965517" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49895614" visible="true" weight="0.31874144" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="right" id="Theme Preview" order="9" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12630208" />
+      <window_info anchor="right" id="SciView" order="8" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49895614" visible="true" weight="0.31874144" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12630208" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" id="Palette&#9;" order="4" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50104386" side_tool="true" weight="0.3284055" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="8" />
       <window_info id="Capture Tool" order="6" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" id="Database" order="7" />
       <window_info anchor="right" id="Maven Projects" order="6" />
       <window_info id="Favorites" order="5" side_tool="true" />
@@ -550,137 +595,10 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="2" />
+      <option name="time" value="3" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/HelloWorld/Iterator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="986">
-          <caret line="58" column="34" selection-start-line="58" selection-start-column="34" selection-end-line="58" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CircuitChallenge/Set1_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="45" selection-start-line="45" selection-end-line="103" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HelloWorld/HelloWorld.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1564">
-          <caret line="92" selection-start-line="92" selection-end-line="92" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/List _and_ Tuples/Lists.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2295">
-          <caret line="135" column="64" selection-start-line="135" selection-start-column="64" selection-end-line="135" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dictionary_And_Sets/jupyterDemo.ipynb" />
-    <entry file="file://$PROJECT_DIR$/Dictionary_And_Sets/Challenge_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dictionary_And_Sets/Challenge_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" column="38" selection-start-line="17" selection-end-line="30" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CircuitChallenge/Set1_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="63" column="36" lean-forward="true" selection-start-line="63" selection-start-column="36" selection-end-line="63" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dictionary_And_Sets/Challenge_4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="34" selection-start-line="17" selection-end-line="26" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dictionary_And_Sets/Question_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="48" selection-start-line="28" selection-start-column="48" selection-end-line="28" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dictionary_And_Sets/Question_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="120" lean-forward="true" selection-start-line="21" selection-start-column="120" selection-end-line="21" selection-end-column="120" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HelloWorld/Challenge_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" column="23" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HelloWorld/Challenge_3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/List _and_ Tuples/Exercise_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/List _and_ Tuples/Exercise_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/List _and_ Tuples/Exercise_4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="36" lean-forward="true" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/List _and_ Tuples/Exercise_3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="11" lean-forward="true" selection-start-line="2" selection-start-column="12" selection-end-line="11" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/List _and_ Tuples/Exercise_5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Input_Output(I_O)/Sample_Cities.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Input_Output(I_O)/Challenge_1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -849,20 +767,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FunctionsAndModules/TKinterModule/TKinterDemo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="741">
-          <caret line="39" column="35" selection-start-line="39" selection-start-column="35" selection-end-line="39" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FunctionsAndModules/TKinterModule/PackGeometryManger.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1596">
-          <caret line="84" column="34" selection-start-line="84" selection-start-column="34" selection-end-line="84" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Input_Output(I_O)/OSModule.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="608">
@@ -870,34 +774,159 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FunctionsAndModules/TKinterModule/GridLayoutManger.py">
+    <entry file="file://$PROJECT_DIR$/FunctionsAndModules/TKinterModule/GridLayoutDemo/CalculatorChallenge.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="409">
-          <caret line="72" column="58" selection-start-line="72" selection-start-column="58" selection-end-line="72" selection-end-column="58" />
+        <state relative-caret-position="114">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FunctionsAndModules/TKinterModule/GridLayoutDemo/CalculatorLayout.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/tkinter/__init__.py">
+    <entry file="file://$PROJECT_DIR$/FunctionsAndModules/Functions/functions.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="1171" column="8" selection-start-line="1171" selection-start-column="8" selection-end-line="1171" selection-end-column="8" />
+        <state relative-caret-position="1615">
+          <caret line="85" column="4" selection-start-line="85" selection-start-column="4" selection-end-line="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FunctionsAndModules/Functions/Parabola.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1045">
+          <caret line="55" column="19" selection-start-line="55" selection-start-column="19" selection-end-line="55" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FunctionsAndModules/Functions/Circles.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FunctionsAndModules/TKinterModule/PackGeometryManger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="84" column="34" selection-start-line="84" selection-start-column="34" selection-end-line="84" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/site-packages/blackjack.py" />
+    <entry file="file://$PROJECT_DIR$/FunctionsAndModules/TKinterModule/GridLayoutManger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1296">
+          <caret line="72" column="58" selection-start-line="72" selection-start-column="58" selection-end-line="72" selection-end-column="58" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/FunctionsAndModules/TKinterModule/GridLayoutDemo/GridDemo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1424">
-          <caret line="21" column="37" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
+        <state relative-caret-position="172">
+          <caret line="108" column="25" selection-start-line="108" selection-start-column="25" selection-end-line="108" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FunctionsAndModules/TKinterModule/GridLayoutDemo/CalculatorChallenge.py">
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/tkinter/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" column="29" lean-forward="true" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+        <state relative-caret-position="-45">
+          <caret line="3615" column="8" selection-start-line="3615" selection-start-column="8" selection-end-line="3615" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FunctionsAndModules/TKinterModule/TKinterDemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="39" column="35" selection-start-line="39" selection-start-column="35" selection-end-line="39" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FunctionsAndModules/Game_BlackJack/blackjack.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4284">
+          <caret line="238" column="17" selection-start-line="238" selection-start-column="17" selection-end-line="238" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FunctionsAndModules/Game_BlackJack/importTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="461">
+          <caret line="66" column="6" selection-start-line="66" selection-start-column="6" selection-end-line="66" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOP_Python/OOPs_Intro.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="14" column="84" selection-start-line="14" selection-start-column="84" selection-end-line="14" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOP_Python/albums.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3692">
+          <caret line="44" column="34" selection-start-line="44" selection-start-column="34" selection-end-line="44" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOP_Python/Account.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOP_Python/Song.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="240" column="35" selection-start-line="240" selection-start-column="35" selection-end-line="240" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOP_Python/Song_version2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4788">
+          <caret line="266" selection-start-line="266" selection-end-line="266" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOP_Python/check_file_for_version3.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-11720" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOP_Python/Song_Version3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="46" column="43" selection-start-line="46" selection-start-column="43" selection-end-line="46" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOP_Python/Game/player.py" />
+    <entry file="file://$PROJECT_DIR$/player.py" />
+    <entry file="file://$PROJECT_DIR$/OOP_Python/Game/main.py" />
+    <entry file="file://$USER_HOME$/.IntelliJIdea2018.1/system/python_stubs/-231596458/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="4071" column="18" selection-start-line="4067" selection-start-column="8" selection-end-line="4071" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOPMiniGame/player.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="38" column="93" selection-start-line="38" selection-start-column="93" selection-end-line="38" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOPMiniGame/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="24" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OOPMiniGame/enemy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="27" column="26" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
         </state>
       </provider>
     </entry>
